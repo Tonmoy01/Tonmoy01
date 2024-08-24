@@ -1,7 +1,8 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Md. Tonmoy Khan</h1>
 <h3 align="center">Jr. Front-End Developer</h3>
 <img align="center" alt="coding" src="https://media.licdn.com/dms/image/v2/D5616AQEPLQPsHA03uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724491311276?e=1729728000&v=beta&t=zDO0Zskad29ZOo6dRU-hN0xVdZzuJRb0q-MokG6D-Kc"/>
+
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy01&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy01" /> </p>
 
