@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Tonmoy Khan</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Jr. Front-End Developer</h3>
 <img align="center" alt="coding" src="https://media.licdn.com/dms/image/v2/D5616AQEPLQPsHA03uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724491311276?e=1729728000&v=beta&t=zDO0Zskad29ZOo6dRU-hN0xVdZzuJRb0q-MokG6D-Kc"/>
 
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *mdtonmoykhan65@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Q4bNpHuu84igC4PMcAQNFHX1R_iKcHh/view?usp=sharing](https://drive.google.com/file/d/10Q4bNpHuu84igC4PMcAQNFHX1R_iKcHh/view?usp=sharing)
+- 📄 Know about my experiences [(https://tonmoykhan.site/resume)](https://tonmoykhan.site/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoy01&show_icons=true&locale=en" alt="tonmoy01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoy01&" alt="tonmoy01" /></p>
-
-
